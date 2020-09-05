@@ -34,7 +34,7 @@
   "optionalDependencies": {
     "@abandonware/noble": "^1.9.2-2",
     "serialport": "^9.0.1",
-    "winnus": "",
+    "winnus": "github:ilyapavkin/winnus",
     "websocket": "^1.0.28"
   },
   "devDependencies": {},
